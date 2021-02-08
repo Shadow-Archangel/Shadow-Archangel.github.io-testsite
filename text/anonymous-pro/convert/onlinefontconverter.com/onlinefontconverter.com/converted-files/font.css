@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'AnonymousPro-Bold';
+  src: url('AnonymousPro-Bold.eot');
+  src: url('AnonymousPro-Bold.eot?#iefix') format('embedded-opentype'),
+       url('AnonymousPro-Bold.svg#AnonymousPro-Bold') format('svg'),
+       url('AnonymousPro-Bold.ttf') format('truetype'),
+       url('AnonymousPro-Bold.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

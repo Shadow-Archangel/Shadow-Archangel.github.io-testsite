@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'AnonymousPro-Regular';
+  src: url('../text/anonymous-pro/converted-files/AnonymousPro-Regular.eot');
+  src: url('../text/anonymous-pro/converted-files/AnonymousPro-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('../text/anonymous-pro/converted-files/AnonymousPro.svg#AnonymousPro') format('svg'),
+       url('../text/anonymous-pro/converted-files/AnonymousPro.ttf') format('truetype'),
+       url('../text/anonymous-pro/converted-files/AnonymousPro.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

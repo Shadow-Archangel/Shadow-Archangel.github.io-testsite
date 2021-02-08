@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'AnonymousPro-BoldItalic';
+  src: url('AnonymousPro-BoldItalic.eot');
+  src: url('AnonymousPro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('AnonymousPro-BoldItalic.svg#AnonymousPro-BoldItalic') format('svg'),
+       url('AnonymousPro-BoldItalic.ttf') format('truetype'),
+       url('AnonymousPro-BoldItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

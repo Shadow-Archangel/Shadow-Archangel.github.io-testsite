@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'AnonymousPro-Regular';
+  src: url('AnonymousPro-Regular.eot');
+  src: url('AnonymousPro-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AnonymousPro';
+  src: url('AnonymousPro.svg#AnonymousPro') format('svg'),
+       url('AnonymousPro.ttf') format('truetype'),
+       url('AnonymousPro.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
